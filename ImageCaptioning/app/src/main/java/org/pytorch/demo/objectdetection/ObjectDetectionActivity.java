@@ -30,6 +30,8 @@ public class ObjectDetectionActivity extends AbstractCameraXActivity<ObjectDetec
     private Module mModule = null;
     private ResultView mResultView;
 
+    private ResultText resultText;
+
     static class AnalysisResult {
         private final ArrayList<Result> mResults;
 
