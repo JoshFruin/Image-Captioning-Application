@@ -989,6 +989,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id resultText
 id resultView
 id reverseSawtooth
 id right
